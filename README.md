@@ -4,4 +4,6 @@ The simulator supports a subset of the MIPS instruction set and can model the ex
 
 steps to use codes:
 > make
+
+
 > ./MIPS
